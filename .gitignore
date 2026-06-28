@@ -41,3 +41,5 @@ yarn-error.*
 /android
 
 src/lib/firebase.ts
+
+src/lib/firebase.ts
